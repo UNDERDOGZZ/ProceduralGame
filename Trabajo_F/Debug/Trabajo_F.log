@@ -1,0 +1,15 @@
+﻿  Main.cpp
+c:\users\renzo\source\repos\trabajo_f\trabajo_f\CMapa.h(27): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\renzo\source\repos\trabajo_f\trabajo_f\CMapa.h(55): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\renzo\source\repos\trabajo_f\trabajo_f\CMapa.h(94): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\renzo\source\repos\trabajo_f\trabajo_f\CEnemigo.h(24): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\renzo\source\repos\trabajo_f\trabajo_f\CEnemigo.h(50): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+c:\users\renzo\source\repos\trabajo_f\trabajo_f\CEnemigos.h(24): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\renzo\source\repos\trabajo_f\trabajo_f\CEnemigos.h(50): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+Main.cpp(22): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\conio.h(452): note: vea la declaración de 'getch'
+Main.cpp(27): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\conio.h(452): note: vea la declaración de 'getch'
+c:\users\renzo\source\repos\trabajo_f\trabajo_f\cmapa.h(97): warning C4715: 'CMapa::Portal': no todas las rutas de acceso de control devuelven un valor
+c:\users\renzo\source\repos\trabajo_f\trabajo_f\ccolision.h(26): warning C4715: 'CColision::GameOver_PorColision_Ene': no todas las rutas de acceso de control devuelven un valor
+  Trabajo_F.vcxproj -> C:\Users\Renzo\source\repos\Trabajo_F\Debug\Trabajo_F.exe
